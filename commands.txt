@@ -1,2 +1,4 @@
 hide .env file
 git rm --cached .env
+create gitignore file
+touch .gitignore
