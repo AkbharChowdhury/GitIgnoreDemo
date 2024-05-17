@@ -1,0 +1,9 @@
+hide folder 
+git rm --cached -r .idea
+hide file
+git rm --cached .env
+
+create gitignore file
+touch .gitignore
+hide all text files
+*.txt
