@@ -1,0 +1,2 @@
+# GitIgnoreDemo
+ git ignore demo

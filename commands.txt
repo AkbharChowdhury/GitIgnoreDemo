@@ -1,0 +1,2 @@
+hide .env file
+git rm --cached .env
